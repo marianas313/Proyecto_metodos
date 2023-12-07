@@ -24,9 +24,9 @@ col2.image("https://lh3.googleusercontent.com/a/ACg8ocJLsh9d7XI0twkQezmylx3qx-Uw
 st.subheader("Página del curso")
 url = "https://bioaiteamlearning.github.io/Metodos_2023_03_UAM/intro.html"
 st.markdown(f"[Métodos_numéricos_y_optimización]({url})")
-
+url2="https://publuu.com/flip-book/328994/757494"
 st.subheader("Manual de usuario")
-st.markdown(f"[Guía_de_funcionamiento]({url})")
+st.markdown(f"[Guía_de_funcionamiento]({url2})")
 #st.success("This is a success message!!!")
 #st.info("This is a info message!!!")
 #st.warning("This is a warning message!!!")

@@ -93,7 +93,7 @@ st.title("Método de Bisección")
 Funcion = st.text_input("Ingrese la función con la que desea trabajar:")
 limite_1 = st.number_input("Ingrese el valor de xl:", value=-0.0)
 limite_2 = st.number_input("Ingrese el valor de xu:", value=0.0)
-tolerancia = st.number_input("Ingrese el valor de la tolerancia:", value=0.001)
+tolerancia = st.number_input("Ingrese el valor de la tolerancia:")
 
 # Ejecutar el método de bisección al presionar un botón
 if st.button("Calcular Bisección"):
